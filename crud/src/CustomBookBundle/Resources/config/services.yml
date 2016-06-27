@@ -1,0 +1,4 @@
+services:
+#    custom_book.example:
+#        class: CustomBookBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]
